@@ -6,7 +6,7 @@ A user-friendly command-line interface for managing personal finances with
 real-time input, budget tracking, and comprehensive reporting.
 
 Author: [Your Name]
-Date: June 2025
+
 """
 
 import sqlite3
