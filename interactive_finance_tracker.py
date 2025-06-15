@@ -5,7 +5,7 @@ Interactive Personal Finance Tracker
 A user-friendly command-line interface for managing personal finances with
 real-time input, budget tracking, and comprehensive reporting.
 
-Author: [Your Name]
+Author: Saksham Lamsal
 
 """
 
